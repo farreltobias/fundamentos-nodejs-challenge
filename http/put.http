@@ -1,0 +1,7 @@
+PUT http://localhost:3000/tasks/bc20f716-ff35-4d7a-9f1a-029125156615 HTTP/1.1
+Content-Type: application/json
+
+{
+  "title": "Other Task",
+  "description": "This is another task"
+}
